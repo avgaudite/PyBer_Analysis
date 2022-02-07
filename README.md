@@ -5,6 +5,7 @@ To perform an exploratory analysis for PyBer on the relationship between type of
 
 ### Results
 ![](https://i.imgur.com/PafTLhk.png)
+
 It is not surprising that the **Urban** setting has the highest number of rides, total drivers, total fares given that the setting has the highest population of the three "types".
 
 It is also not surprising that the **Rural** setting has the lowest number of rides, total drivers and total fares given that the setting has the lowest population among the three "types".
